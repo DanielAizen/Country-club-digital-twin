@@ -1,4 +1,4 @@
-# Final-Project---Integrative
+# Final Project - Integrative
 
 Final Project in Integrative sofware engineering - backend only
 
