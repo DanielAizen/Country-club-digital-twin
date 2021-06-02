@@ -10,9 +10,9 @@ digital twin of a made up country club.
 
 ### Executing program
 
-*Open the project in src/main/java
-*Under twins -> Application -> run as application
-*In order to check functionalities ->use Postman
+* Open the project in src/main/java
+* Under twins -> Application -> run as application
+* In order to check functionalities ->use Postman
 
 
 ## Authors
